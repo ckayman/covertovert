@@ -6,8 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group Information:
 
+| Student Name 1: Çağatay Kayman
+| Student Name 2: İrem Sezgi Kılıçdoğan
+| Group ID: 56
 
 .. toctree::
    :maxdepth: 2
